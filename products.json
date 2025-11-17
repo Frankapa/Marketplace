@@ -1,0 +1,128 @@
+[
+    {
+       "id": 1,
+       "name": "Cinderella Combo",
+       "price": 25000,
+       "image": "combo1.jpeg"
+    },
+    {
+       "id": 2,
+       "name": "94 Combo",
+       "price": 44000,
+       "image": "combo2.jpeg"
+    },
+    {
+       "id": 3,
+       "name": "Dear Body Combo",
+       "price": 28000,
+       "image": "combo3.jpeg"
+    },
+    {
+       "id": 4,
+       "name": "24k Combo",
+       "price": 32000,
+       "image": "combo4.jpeg"
+    },
+    {
+       "id": 5,
+       "name": "Sexy pinky Combo",
+       "price": 41000,
+       "image": "combo5.jpeg"
+    },
+    {
+       "id": 6,
+       "name": "Notions Combo",
+       "price": 38000,
+       "image": "combo6.jpeg"
+    },
+    {
+       "id": 7,
+       "name": "24k",
+       "price": 16000,
+       "image": "combo7.jpeg"
+    },
+    {
+       "id":8,
+       "name": "24k",
+       "price": 16000,
+       "image": "combo8.jpeg"
+    },
+    {
+       "id": 9,
+       "name": "24k",
+       "price": 16000,
+       "image": "combo9.jpeg"
+    },
+    {
+       "id": 10,
+       "name": "24k",
+       "price": 16000,
+       "image": "combo10.jpeg"
+    },
+    {
+       "id": 11,
+       "name": "24k",
+       "price": 16000,
+       "image": "combo11.jpeg"
+    },
+    {
+       "id": 12,
+       "name": "24k",
+       "price": 16000,
+       "image": "combo12.jpeg"
+    },
+    {
+       "id": 13,
+       "name": "24k",
+       "price": 16000,
+       "image": "combo13.jpeg"
+    },
+    {
+       "id": 14,
+       "name": "24k",
+       "price": 16000,
+       "image": "combo14.jpeg"
+    },
+    {
+       "id": 15,
+       "name": "24k",
+       "price": 16000,
+       "image": "combo15.jpeg"
+    },
+    {
+       "id": 16,
+       "name": "24k",
+       "price": 16000,
+       "image": "combo16.jpeg"
+    },
+    {
+       "id": 17,
+       "name": "24k",
+       "price": 16000,
+       "image": "combo13.jpeg"
+    },
+    {
+       "id": 18,
+       "name": "24k",
+       "price": 16000,
+       "image": "combo11.jpeg"
+    },
+    {
+       "id": 19,
+       "name": "24k",
+       "price": 16000,
+       "image": "combo12.jpeg"
+    },
+    {
+       "id": 20,
+       "name": "24k",
+       "price": 16000,
+       "image": "combo10.jpeg"
+    },
+    {
+       "id": 21,
+       "name": "perfume",
+       "price": 16000,
+       "image": "combo15.jpeg"
+    }
+]
