@@ -15,6 +15,9 @@ let carts = [];
 iconCart.addEventListener('click', () => {
     body.classList.toggle('showCart')
 });
+totalButton.addEventListener('click', ()=> {
+   body.classList.toggle('showCart')
+});
 
 
 
